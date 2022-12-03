@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(214, 191, 144);
+}
+.container {
+    text-align: center;
+    width: min(80vh, 100vw);
+    height: min(80vh, 100vw);
+    margin: auto;
+}
+
+.container > svg {
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
